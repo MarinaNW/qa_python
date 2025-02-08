@@ -1,1 +1,13 @@
 # qa_python
+test_add_new_book_positive_result()
+test_add_new_book_long_name_negative_result()
+test_set_book_genre_positive_result()
+test_get_book_genre_positive_result()
+test_get_book_genre_negative_result()
+test_get_books_with_specific_genre_positive_result()
+test_get_books_genre_positive_result()
+test_get_books_for_children_positive_result()
+test_add_book_in_favorites_positive_result()
+test_delete_book_from_favorites_positive_result()
+test_get_list_of_favorites_books_positive_result()
+
